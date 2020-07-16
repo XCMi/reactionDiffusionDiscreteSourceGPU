@@ -1,2 +1,2 @@
 # reactionDiffusionDiscreteSourceGPU
- Simulation code of a reaction-diffusion system with discrete sources
+A GPU-accelerated simulation code of a reaction-diffusion system with discrete sources
